@@ -69,9 +69,9 @@ Only one output is active at a time depending on the select input combination.
 
 ### Power Analysis
 
-![Average Power](images\result_waveforms\average power.png)
+![Average Power](images\result_waveforms\average_power.png)
 
-![Power Dissipation](images\result_waveforms\Power dissipation.png)
+![Power Dissipation](images\result_waveforms\Power_dissipation.png)
 
 ---
 
@@ -85,7 +85,7 @@ Only one output is active at a time depending on the select input combination.
 
 ## Stick Diagram
 
-![Stick Diagram](stick_diagram\Stick Diagram.png)
+![Stick Diagram](stick_diagram\Stick_Diagram.png)
 
 ---
 

@@ -1,0 +1,70 @@
+*
+*
+*
+*                       LINUX           Wed Sep 24 14:46:37 2025
+*
+*
+*
+*  PROGRAM  advgen
+*
+*  HSPICE LIBRARY
+*
+*
+*
+
+*
+.SUBCKT inverter vdd gnd in out
+*
+*
+*  caps2d version: 10
+*
+*
+*       TRANSISTOR CARDS
+*
+*
+MavD1_1	out#2	in#4	gnd#4	gnd#2	nmos1v#20ivpcell#20gpdk090	L=0.1U
++ W=0.24U
++ AD=0.0672P	AS=0.0672P	PD=1.04U	PS=1.04U
++ simW=2.4e-07 fw=2.4e-07
+MavD7_1	out#3	in#2	vdd#4	vdd#2	pmos1v#20ivpcell#20gpdk090	L=0.1U
++ W=0.48U
++ AD=0.1344P	AS=0.1344P	PD=1.52U	PS=1.52U
++ simW=4.8e-07 fw=4.8e-07
+*
+*
+*       RESISTOR AND CAP/DIODE CARDS
+*
+Ri1	in#1	in	   10.0075	$mt1	$X=0.922 $Y=-3.4895
+Ri2	out	out#1	9.547E-02	$mt1	$X=1.578 $Y=-3.495
+Ri3	out#1	out#2	   15.5439	$mt1	$X=1.48 $Y=-3.9075
+Ri4	out#1	out#3	   16.0839	$mt1	$X=1.48 $Y=-2.6775
+Ri5	vdd#1	vdd	7.872E-03	$mt1	$X=1.262 $Y=-0.936
+Ri7	vdd	vdd#4	   15.4327	$mt1	$X=1.06 $Y=-1.54
+Ri8	vdd#2	vdd	   15.0000	$mt1	$X=1.27 $Y=-1.02
+Ri9	gnd#1	gnd	1.106E-02	$mt1	$X=1.2595 $Y=-5.199
+Ri12	gnd	gnd#4	   15.3924	$mt1	$X=1.06 $Y=-4.61
+Ri13	gnd#2	gnd	   15.0000	$mt1	$X=1.26 $Y=-5.1
+Rj1	in#2	in#3	  138.6172	$poly	$X=1.27 $Y=-2.77
+Rj2	in#3	in#1	   26.0117	$poly	$X=1.11 $Y=-3.49
+Rj3	in#3	in#4	   70.6172	$poly	$X=1.27 $Y=-3.87
+*
+*       CAPACITOR CARDS
+*
+*
+C1	vdd	gnd	2.603E-17	$X=1.4295 $Y=-1.0215
+C2	in	gnd	5.282E-17	$X=0.9575 $Y=-3.4925
+C3	out	gnd	2.885E-17	$X=1.649 $Y=-3.4975
+C4	in#2	gnd	1.195E-16	$X=1.268 $Y=-2.072
+C5	in#4	gnd	8.402E-17	$X=1.2675 $Y=-4.247
+C6	in#1	gnd	2.840E-17	$X=0.8975 $Y=-3.4925
+C7	vdd#1	gnd	5.122E-18	$X=1.2695 $Y=-0.8315
+C8	vdd#2	gnd	1.253E-16	$X=1.2735 $Y=-1.567
+C9	vdd#4	gnd	2.802E-17	$X=1.068 $Y=-1.8255
+C10	out#3	gnd	8.328E-17	$X=1.4685 $Y=-2.022
+C11	out#2	gnd	5.310E-17	$X=1.468 $Y=-4.2485
+C12	in#3	gnd	1.078E-16	$X=1.268 $Y=-3.322
+C13	out#1	gnd	1.076E-16	$X=1.478 $Y=-3.295
+*
+*
+.ENDS inverter
+*

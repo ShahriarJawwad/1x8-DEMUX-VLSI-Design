@@ -1,0 +1,11 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'inverter layout jawwad':
+  info: Assign pin label "gnd" at (1.2700, -5.1000) to layer `Metal1_p'.
+  info: Assign pin label "in" at (0.9225, -3.4900) to layer `Metal1_p'.
+  info: Assign pin label "out" at (1.6700, -3.4950) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (1.2700, -1.0175) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

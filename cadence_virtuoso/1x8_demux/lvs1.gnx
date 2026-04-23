@@ -1,0 +1,63 @@
+# 4
+nmos1v(MOS): nmos1v(MOS)
+= D D B
+= G G B
+= S S B
+= B B B
+# 4
+pmos1v(MOS): pmos1v(MOS)
+= D D B
+= G G B
+= S S B
+= B B B
+# 49
+1x8_demux schematic jawwad: 1x8_demux layout jawwad
+= net691 avC15
+= net748 avC38
+= net742 avC40
+= net667 avC25
+= net741 avC42
+= net706 avC19
+= net664 avC23
+= net747 avC44
+= net740 avC46
+= net739 avC48
+= net720 avC21
+= net689 avC17
+= net755 avC39
+= net756 avC41
+= net754 avC43
+= net703 avC18
+= net753 avC45
+= net752 avC47
+= net751 avC49
+= net719 avC20
+= net665 avC24
+= net750 avC26
+= net746 avC28
+= net745 avC30
+= net675 avC16
+= net749 avC32
+= net744 avC34
+= net743 avC36
+= net761 avC27
+= net762 avC29
+= net760 avC31
+= net673 avC22
+= net758 avC33
+= net759 avC35
+= net757 avC37
+= vdd vdd I
+= gnd gnd I
+= D D I
+= S0 S0 I
+= S1 S1 I
+= S2 S2 I
+= Y0 Y0 O
+= Y1 Y1 O
+= Y2 Y2 O
+= Y3 Y3 O
+= Y4 Y4 O
+= Y5 Y5 O
+= Y6 Y6 O
+= Y7 Y7 O

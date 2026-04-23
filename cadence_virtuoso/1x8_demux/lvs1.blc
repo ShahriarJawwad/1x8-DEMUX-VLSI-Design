@@ -1,0 +1,5 @@
+"pmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"1x8_demux layout jawwad" "1x8_demux schematic jawwad" "nmos1v(MOS)" "pmos1v(MOS)"
+Devices filtered from layout
+"TIE"

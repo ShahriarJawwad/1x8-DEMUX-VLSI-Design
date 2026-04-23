@@ -1,0 +1,22 @@
+
+***** Begin Label Report *****
+
+ Label in cell '1x8_demux layout jawwad':
+  info: Assign pin label "gnd" at (1.4200, -5.9800) to layer `Metal1_p'.
+  info: Assign pin label "S0" at (1.0100, -4.6500) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (4.2450, -7.7400) to layer `Metal1_p'.
+  info: Assign pin label "S1" at (1.9500, -4.6500) to layer `Metal1_p'.
+  info: Assign pin label "Y4" at (6.8250, -9.3050) to layer `Metal1_p'.
+  info: Assign pin label "S2" at (2.8900, -4.6500) to layer `Metal1_p'.
+  info: Assign pin label "D" at (3.8500, -4.6550) to layer `Metal1_p'.
+  info: Assign pin label "vdd" at (1.4200, -1.6350) to layer `Metal1_p'.
+  info: Assign pin label "Y5" at (9.9650, -9.3050) to layer `Metal1_p'.
+  info: Assign pin label "Y0" at (6.8250, -3.2000) to layer `Metal1_p'.
+  info: Assign pin label "Y6" at (13.1050, -9.3050) to layer `Metal1_p'.
+  info: Assign pin label "Y1" at (9.9650, -3.2000) to layer `Metal1_p'.
+  info: Assign pin label "Y7" at (16.2450, -9.3050) to layer `Metal1_p'.
+  info: Assign pin label "Y2" at (13.1050, -3.2000) to layer `Metal1_p'.
+  info: Assign pin label "Y3" at (16.2450, -3.2000) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,17 @@
+np_rmetal7_conn,0.06,mt7(c)
++:t,1.4,1.4,1.4,rVia6
+np_rmetal6_conn,0.06,mt6(d)
++:t,1.4,1.4,1.4,rVia5
+np_rmetal5_conn,0.06,mt5(e)
++:t,1.4,1.4,1.4,rVia4
+np_rmetal4_conn,0.06,mt4(f)
++:t,1.4,1.4,1.4,rVia3
+np_rmetal3_conn,0.06,mt3(g)
++:t,1.4,1.4,1.4,rvia2_out_capInd
+np_rmetal2_conn,0.06,mt2(h)
++:t,1.4,1.4,1.4,rVia1
+np_rmetal1_conn,0.08,mt1(i)
++:t,10,10,10,rcont_poly
++:t,15,15,15,rcont_pdiff
++:t,15,15,15,rcont_ndiff
+np_rpoly_conn,10.0,poly(j)

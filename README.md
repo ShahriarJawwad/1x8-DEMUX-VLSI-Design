@@ -27,7 +27,7 @@ Only one output is active at a time depending on the select input combination.
 
 ## Simulation (Logisim)
 
-![Logisim Simulation](logisim_simulation\screenshots\Simulation.png)
+![Logisim Simulation](logisim_simulation/screenshots/Simulation.png)
 
 ---
 
@@ -35,29 +35,29 @@ Only one output is active at a time depending on the select input combination.
 
 ### Schematic Design
 
-![Schematic1](images\circuit_images\Schematic1.png)
+![Schematic1](images/circuit_images/Schematic1.png)
 
-![Schematic2](images\circuit_images\Schematic2.png)
+![Schematic2](images/circuit_images/Schematic2.png)
 
-![Schematic3](images\circuit_images\Schematic3.png)
+![Schematic3](images/circuit_images/Schematic3.png)
 
 ---
 
 ### Layout Design
 
-![Layout](images\circuit_images\Layout1.png)
+![Layout](images/circuit_images/Layout1.png)
 
 ---
 
 ### Symbol View
 
-![Symbol](images\circuit_images\Symbol.png)
+![Symbol](images/circuit_images/Symbol.png)
 
 ---
 
 ## RC Extraction (RCX)
 
-![RCX](images\circuit_images\RCX.png)
+![RCX](images/circuit_images/RCX.png)
 
 ---
 
@@ -65,13 +65,13 @@ Only one output is active at a time depending on the select input combination.
 
 ### Input vs Output Waveform
 
-![Input Output](images\result_waveforms\Input_Output.png)
+![Input Output](images/result_waveforms/Input_Output.png)
 
 ### Power Analysis
 
-![Average Power](images\result_waveforms\average_power.png)
+![Average Power](images/result_waveforms/average_power.png)
 
-![Power Dissipation](images\result_waveforms\Power_dissipation.png)
+![Power Dissipation](images/result_waveforms/Power_dissipation.png)
 
 ---
 
@@ -85,7 +85,7 @@ Only one output is active at a time depending on the select input combination.
 
 ## Stick Diagram
 
-![Stick Diagram](stick_diagram\Stick_Diagram.png)
+![Stick Diagram](stick_diagram/Stick_Diagram.png)
 
 ---
 
